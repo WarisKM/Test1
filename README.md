@@ -5,3 +5,7 @@ R dpylr analysis with functions to manipulate the dataframe/tibble (nycflights13
 
 
 R visualization with ggplot and geom friends (diamond dataset)
+
+
+
+Python Atm class with method to interact with the object 
